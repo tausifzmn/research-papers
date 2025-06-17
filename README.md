@@ -1,6 +1,6 @@
 # Academic Research Papers
 
-[cite_start]This repository contains academic research papers and reports authored by Tausif Zaman, a Masters of Applied Computing student at the University of Windsor.
+This repository contains academic research papers and reports authored by Tausif Zaman, a Masters of Applied Computing student at the University of Windsor.
 ---
 
 ## Papers
